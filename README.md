@@ -36,6 +36,14 @@ These are anonymized descriptions of real work. They contain no client data, int
 | [Exam Transfer: Making Sure Exams Move Correctly](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/quiz-curriculum-transfer.md) | Acceptance criteria, mapping risks, and testing a product-transfer workflow |
 | [Notification Timing: Finding an Outdated Reminder](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/anonymized-stale-notification-bug.md) | A public-safe example of documenting a scheduling risk for a development team |
 
+## Selected project
+
+### [Cold Carti Fan Archive — Team Coursework](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/projects/cold-carti-fan-archive.md)
+
+Responsive HTML/CSS/JavaScript fan archive built as a two-person academic project. Includes an interactive release gallery, filtering, a temporary collection and ratings, keyboard navigation, a validated two-step form, and local automated checks.
+
+[Open the live demo](https://kanatovs.github.io/music-bandv3/)
+
 ## QA toolkit
 
 `Jira` · `Trello` · `TestRail` · `Postman` · `Swagger` · `Chrome DevTools` · `SQL` · `Git`
