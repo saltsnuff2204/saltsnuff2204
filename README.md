@@ -23,7 +23,7 @@ I am building my career in junior QA, technical support, and QA-to-product/proje
 | --- | --- |
 | **AMAN — QA testing** | Validation of an AI / computer-vision incident-detection system: true-positive and false-positive analysis, admin-panel flows, video incidents, and notifications. |
 | **BestYs — Technical Support & QA** | User requests, web-product QA, live support during olympiads, defect reports, API/UI investigation, handoff to developers, and retesting. |
-| **Quiz → Curriculum transfer** | Requirement clarification and QA checks for the `Product → Quiz → Curriculum` workflow, including mapping risks and notification scenarios. |
+| **Exam transfer** | Requirement clarification and QA checks for the `Product → Quiz → Curriculum` workflow, including mapping risks and notification scenarios. |
 
 ## Selected case studies
 
@@ -31,10 +31,10 @@ These are anonymized descriptions of real work. They contain no client data, int
 
 | Case study | Demonstrates |
 | --- | --- |
-| [BestYs — from user request to retest](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/bestys-request-to-retest.md) | Support request → reproduction → clear task → QA verification → retest |
-| [AMAN — AI incident validation](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/aman-ai-incident-validation.md) | TP/FP analysis, admin-panel validation, incident and notification scenarios |
-| [Quiz → Curriculum transfer](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/quiz-curriculum-transfer.md) | Acceptance criteria, mapping risks, and testing a product-transfer workflow |
-| [Anonymized stale-notification report](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/anonymized-stale-notification-bug.md) | A public-safe example of documenting a scheduling risk for a development team |
+| [BestYs: User Requests and Retesting](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/bestys-request-to-retest.md) | Support request → reproduction → clear task → QA verification → retest |
+| [AMAN: Testing AI Video Alerts](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/aman-ai-incident-validation.md) | TP/FP analysis, admin-panel validation, incident and notification scenarios |
+| [Exam Transfer: Making Sure Exams Move Correctly](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/quiz-curriculum-transfer.md) | Acceptance criteria, mapping risks, and testing a product-transfer workflow |
+| [Notification Timing: Finding an Outdated Reminder](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/case-studies/anonymized-stale-notification-bug.md) | A public-safe example of documenting a scheduling risk for a development team |
 
 ## QA toolkit
 
