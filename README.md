@@ -40,9 +40,9 @@ These are anonymized descriptions of real work. They contain no client data, int
 
 ### [Finovo — Telegram Finance Tracker](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/projects/finovo-telegram-finance-tracker.md)
 
-Live Telegram bot for quick personal finance tracking: short chat-based income and expense entries, KZT/USD support, daily and monthly summaries, plus goals, debts, and credits.
+Live Telegram bot and public source code for personal finance tracking: short chat-based income and expense entries, KZT/USD support, daily and monthly summaries, plus goals, debts, and credits.
 
-[Try @finovo_tracker_bot](https://t.me/finovo_tracker_bot)
+[Try @finovo_tracker_bot](https://t.me/finovo_tracker_bot) · [View source code](https://github.com/saltsnuff2204/finovo-telegram-finance-tracker)
 
 ### [Cold Carti Fan Archive — Team Coursework](https://github.com/saltsnuff2204/qa-engineering-portfolio/blob/main/projects/cold-carti-fan-archive.md)
 
