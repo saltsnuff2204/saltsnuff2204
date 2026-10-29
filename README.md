@@ -54,14 +54,6 @@ These are anonymized descriptions of real work. They contain no client data, int
 4. Describe findings clearly enough for the team to act on them.
 5. Retest the implemented change and report the result.
 
-## Learning projects
-
-| Project | Purpose |
-| --- | --- |
-| [QA Engineering Portfolio](https://github.com/saltsnuff2204/qa-engineering-portfolio) | QA practice lab with a test plan, test cases, checklist, API collection, SQL checks, and exploratory-test materials. |
-| [Restaurant Menu Manager](https://github.com/saltsnuff2204/restaurant-menu-manager) | A local full-stack learning project used as the system under test: Java 17 REST API, PostgreSQL, React dashboard. |
-| [Java Restaurant OOP](https://github.com/saltsnuff2204/java-restaurant-oop) | Java and Maven coursework covering OOP, collections, `BigDecimal`, and JUnit 5. |
-
 ## Contact
 
 - Email: [ilaxgh@icloud.com](mailto:ilaxgh@icloud.com)
